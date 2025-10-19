@@ -1,0 +1,4 @@
+sympy
+boto3
+requests
+requests-aws4auth

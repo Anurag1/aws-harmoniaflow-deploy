@@ -1,0 +1,1 @@
+{"data":{"price":[10,20,30],"quantity":[2,3,5]},"rules":{"revenue":"price*quantity"}}
